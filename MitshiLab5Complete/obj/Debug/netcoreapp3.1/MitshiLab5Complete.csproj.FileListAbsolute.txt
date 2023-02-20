@@ -1,0 +1,16 @@
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\bin\Debug\netcoreapp3.1\MitshiLab5Complete.exe
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\bin\Debug\netcoreapp3.1\MitshiLab5Complete.deps.json
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\bin\Debug\netcoreapp3.1\MitshiLab5Complete.runtimeconfig.json
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\bin\Debug\netcoreapp3.1\MitshiLab5Complete.runtimeconfig.dev.json
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\bin\Debug\netcoreapp3.1\MitshiLab5Complete.dll
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\bin\Debug\netcoreapp3.1\MitshiLab5Complete.pdb
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\obj\Debug\netcoreapp3.1\MitshiLab5Complete.csproj.AssemblyReference.cache
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\obj\Debug\netcoreapp3.1\MitshiLab5Complete.Form1.resources
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\obj\Debug\netcoreapp3.1\MitshiLab5Complete.csproj.GenerateResource.cache
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\obj\Debug\netcoreapp3.1\MitshiLab5Complete.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\obj\Debug\netcoreapp3.1\MitshiLab5Complete.AssemblyInfoInputs.cache
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\obj\Debug\netcoreapp3.1\MitshiLab5Complete.AssemblyInfo.cs
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\obj\Debug\netcoreapp3.1\MitshiLab5Complete.csproj.CoreCompileInputs.cache
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\obj\Debug\netcoreapp3.1\MitshiLab5Complete.dll
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\obj\Debug\netcoreapp3.1\MitshiLab5Complete.pdb
+D:\C#\MitshiLab5Complete\MitshiLab5Complete\obj\Debug\netcoreapp3.1\MitshiLab5Complete.genruntimeconfig.cache

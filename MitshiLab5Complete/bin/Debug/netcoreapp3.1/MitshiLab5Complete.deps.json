@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MitshiLab5Complete/1.0.0": {
+        "runtime": {
+          "MitshiLab5Complete.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MitshiLab5Complete/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
